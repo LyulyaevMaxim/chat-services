@@ -1,0 +1,11 @@
+{
+  "name": "hm-chat-client",
+  "version": "0.1.1",
+  "private": true,
+  "homepage": ".",
+  "dependencies": {
+    "hapi": "^16.5.2",
+    "inert": "^4.2.1",
+    "pino": "^4.7.1"
+  }
+}
